@@ -19,6 +19,6 @@ A few more things:
 If you are entirely new to coding, it can be very tempting to go and install the popular IDE to help you code better, with linting, with everything.
 Maybe this is the right thing for you, but maybe it isn't. Regardless of what experienced developers and players may tell you, it's not good to overwhelm yourself with new stuff and quit out of frustration or paralysis.
 
-Until you feel that the ingame IDE (that's the console and scripting tab) is holding you back, just stick with it. If you want backups of your code, you could use github for that - or just a simple .txt on your desktop. Whatever feel least resistance. Keep it simple, keep it easy, keep it enjoyable. The advanced stuff can wait for later, when your current tools feel like they're starting to restrict you and you enjoy the thought of growing out of them.
+Until you feel that the ingame IDE (that's the console and scripting tab) is holding you back, just stick with it. If you want backups of your code, you could use github for that - or just a simple .txt on your desktop. Whichever you feel least resistance with. Keep it simple, keep it easy, keep it enjoyable. The advanced stuff can wait for later, when your current tools feel like they're starting to restrict you and you enjoy the thought of growing out of them.
 
 Once you are at that point, go give the Screeps Discord server a call. :)
