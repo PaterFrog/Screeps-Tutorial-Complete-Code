@@ -4,6 +4,11 @@ var roleUpgrader = require('role.upgrader');
 
 module.exports.loop = function () {
 
+    //SPAMS ENERGY LEVEL IN CONSOLE! (probably comment out)
+    for(var name in Game.rooms) {
+        console.log('Room "'+name+'" has '+Game.rooms[name].energyAvailable+' energy');
+    }
+
     //clean up memory for killed creeps
     for(var name in Memory.creeps) {
         if(!Game.creeps[name]) {
@@ -31,11 +36,6 @@ module.exports.loop = function () {
             Game.spawns['Spawn1'].pos.x + 1, 
             Game.spawns['Spawn1'].pos.y, 
             {align: 'left', opacity: 0.8});
-    }
-
-    //SPAMS ENERGY LEVEL IN CONSOLE!
-    for(var name in Game.rooms) {
-        console.log('Room "'+name+'" has '+Game.rooms[name].energyAvailable+' energy');
     }
 
     //run relevant role.js for each creep
