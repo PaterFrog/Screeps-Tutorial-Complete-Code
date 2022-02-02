@@ -20,7 +20,7 @@ As a new player, focus first of all on having your colony automatically set up a
 Once you have this "vertical slice", this base with functional bits of everything neccessary, then you can go and make each bit more streamlined, more beautiful, more perfect.
 
 
-_A few more things:_
+_**A few more things:**_
 
 If you are entirely new to coding, it can be very tempting to go and install the popular IDE to help you code better, with linting, with everything.
 Maybe this is the right thing for you, but maybe it isn't. Regardless of what experienced developers and players may tell you, it's not good to overwhelm yourself with new stuff and quit out of frustration or paralysis.
