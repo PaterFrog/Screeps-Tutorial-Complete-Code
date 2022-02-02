@@ -10,7 +10,7 @@ The scripts (main.js, role.builder.js, etc.) have been compiled into their "stro
 
 _**What to do after finishing the tutorial?**_
 
-Your next personal project should perhaps be to automate the spawning of builders and upgraders? You could then follow that up with basic tower/fortification spawning. Automatic safe-mode activation.
+Your next personal project should perhaps be to automate the spawning of builders and upgraders. You could then follow that up with basic tower/fortification spawning. Automatic safe-mode activation, too.
 
 If you are very new to coding, please do not make the mistake of creating whatever perfect function you come up with, before you even have a viable "vertical slice."
 Hack it first, don't worry about making it especially nice - but do make sure to clearly comment everything. That will save you a lot of pain when you come back later to clean everything up and make it perfect.
