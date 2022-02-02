@@ -10,7 +10,7 @@ The scripts (main.js, role.builder.js, etc.) have been compiled into their "stro
 
 _**What to do after finishing the tutorial?**_
 
-Your next personal project should perhaps be to automate the spawning of builders and upgraders. You could then follow that up with basic tower/fortification spawning. Automatic safe-mode activation, too.
+After selecting a spawn, your next project should perhaps be to automate the spawning of builders and upgraders. You could then follow that up with basic tower/fortification spawning. Automatic safe-mode activation, too.
 
 Use the official Screeps documentation and API, you were linked many times during the tutorial. The more familiar you are with reading the documentation, the less time you'll have to waste on it.
 
