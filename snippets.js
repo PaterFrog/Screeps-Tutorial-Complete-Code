@@ -27,3 +27,6 @@ Game.creeps['Harvester1'].suicide()
 
 //safe mode
 Game.spawns['Spawn1'].room.controller.activateSafeMode();
+
+//spawn tower
+Game.spawns['Spawn1'].room.createConstructionSite( 23, 22, STRUCTURE_TOWER );
